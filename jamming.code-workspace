@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "z-course",
+			"path": "../../Desktop/z-course"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "z-course"
+	}
+}
