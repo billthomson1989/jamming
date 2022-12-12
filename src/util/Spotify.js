@@ -1,6 +1,6 @@
 const clientId = 'b35465703424445a9ff3261552d206d3';
 /*const redirectUri = 'http://imaginary-cemetery.surge.sh/';*/
-redirectUri = 'https://imaginary-cemetery-33bjl3.netlify.app/'
+const redirectUri = 'https://imaginary-cemetery-33bjl3.netlify.app/'
 
 let accessToken;
 
